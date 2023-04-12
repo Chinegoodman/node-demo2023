@@ -1,0 +1,27 @@
+{
+  "name": "demo2023",
+  "version": "1.0.0",
+  "description": "基于node的项目demo",
+  "main": "index.js",
+  "scripts": {
+    "node": "node index.js",
+    "test": "npm run node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chinegoodman/node-demo2023.git"
+  },
+  "keywords": [
+    "node",
+    "demo",
+    "api",
+    "get",
+    "post"
+  ],
+  "author": "pang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chinegoodman/node-demo2023/issues"
+  },
+  "homepage": "https://github.com/Chinegoodman/node-demo2023#readme"
+}
